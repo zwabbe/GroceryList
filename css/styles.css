@@ -1,0 +1,6 @@
+td {
+    vertical-align: top;
+}
+#table1, #table2, #table3{
+    display: none;
+}
